@@ -1,0 +1,14 @@
+{
+	"main": "lib/index.js",
+	"type": "module",
+	"version": "0.1.0",
+	"scripts": {
+		"build": "tsc --project tsconfig.json"
+	},
+	"dependencies": {
+		"henta": "^3.0.0",
+		"librcon": "^1.0.3",
+		"rcon-client": "^4.2.0",
+		"sequelize": "^5.21.7"
+	}
+}

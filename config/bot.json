@@ -1,0 +1,10 @@
+{
+  "logNewMessages": true,
+  "ignoreGroups": true,
+  "handlers": [
+    "check-mentions",
+    "connect-user",
+    "command",
+    "fallback"
+  ]
+}

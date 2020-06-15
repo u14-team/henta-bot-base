@@ -1,0 +1,26 @@
+{
+  "name": "@henta-bot/base",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "henta": "^3.0.0",
+    "pg": "^7.8.2",
+    "sequelize": "^5.21.3",
+    "vk-io": "^4.0.0-rc.30"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "debug": "^4.1.1",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.0"
+  },
+  "scripts": {
+    "start": "node -r esm ."
+  },
+  "author": "TheEVolk",
+  "license": "ISC"
+}

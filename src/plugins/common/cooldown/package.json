@@ -1,0 +1,8 @@
+{
+	"main": "src/index.js",
+	"type": "module",
+	"version": "0.1.0",
+	"dependencies": {
+		"moment": "^2.24.0"
+	}
+}

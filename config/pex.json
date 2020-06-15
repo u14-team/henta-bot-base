@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "creator",
+    "title": "Владелец",
+    "emoji": "🔑",
+    "data": {
+      "allow": true
+    },
+    "includes": ["user"]
+  },
+  {
+    "slug": "user",
+    "title": "Пользователь",
+    "emoji": "👤",
+    "data": {
+    }
+  }
+]

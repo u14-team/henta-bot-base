@@ -1,0 +1,6 @@
+{
+  "vk": {
+    "token": ""
+  },
+  "database": "postgres://mybot:password@localhost/db_mybot"
+}

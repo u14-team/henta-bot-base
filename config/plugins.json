@@ -1,0 +1,15 @@
+[
+	"common/bot",
+	"common/botcmd",
+	"common/db",
+	"common/users",
+	"common/mentions",
+	"common/pex",
+	"common/redis",
+	"common/imageCache",
+	"common/onlineStatus",
+	"common/temp",
+	"common/cooldown",
+	"bot/commandNotFound",
+	"bot/error"
+]
