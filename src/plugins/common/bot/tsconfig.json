@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+      "outDir": "lib/",
+      "esModuleInterop": true,
+      "types": ["node"],
+      "target": "ES2019",
+      "skipLibCheck": true,
+      "module": "commonjs"
+  },
+  "filesGlob": [
+		"src/*.ts"
+	]
+}

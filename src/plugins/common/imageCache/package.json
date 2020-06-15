@@ -1,0 +1,9 @@
+{
+  "name": "henta-plugin-common-image_cache",
+  "version": "0.2.0",
+  "description": "Image cache system",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "TheEVolk",
+  "license": "ISC"
+}

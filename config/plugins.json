@@ -9,7 +9,6 @@
 	"common/imageCache",
 	"common/onlineStatus",
 	"common/temp",
-	"common/cooldown",
 	"bot/commandNotFound",
 	"bot/error"
 ]
