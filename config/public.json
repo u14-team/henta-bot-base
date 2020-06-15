@@ -1,6 +1,6 @@
 {
-	"vk": {
-    "groupId": 000000000
+  "vk": {
+  "groupId": 000000000
   },
   "redisTag": "mybot",
   "mentions": [ "зая", "пуся", "/" ],
