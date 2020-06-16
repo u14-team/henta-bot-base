@@ -1,0 +1,9 @@
+{
+	"main": "src/index.js",
+	"version": "0.1.0",
+	"dependencies": {
+		"async-redis": "^1.1.7"
+	},
+	"slug": "common/redis",
+	"remote": "StandardHentaPlugins/redis"
+}
