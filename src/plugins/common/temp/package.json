@@ -1,7 +1,0 @@
-{
-  "main": "src/index.js",
-  "type": "module",
-  "slug": "common/temp",
-  "version": "1.0.1",
-  "remote": "StandartHentaPlugins/temp"
-}

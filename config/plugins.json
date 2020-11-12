@@ -6,7 +6,7 @@
 	"common/mentions",
 	"common/pex",
 	"common/redis",
-	"common/imageCache",
+	"common/hentadmin",
 	"common/onlineStatus",
 	"common/temp",
 	"bot/commandNotFound",

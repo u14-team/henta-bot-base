@@ -1,15 +1,11 @@
 {
-  "name": "@henta-bot/base",
-  "version": "0.1.0",
-  "description": "",
+  "name": "@henta/bot-base",
+  "version": "0.2.0",
+  "description": "My First Bot",
   "main": "index.js",
   "type": "module",
   "dependencies": {
-    "esm": "^3.2.25",
-    "henta": "^3.0.0",
-    "pg": "^7.8.2",
-    "sequelize": "^5.21.3",
-    "vk-io": "^4.0.0-rc.30"
+    "henta": "^3.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
