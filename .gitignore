@@ -2,3 +2,6 @@
 ./temp
 **/build/**
 node_modules
+test.sqlite3
+src/plugins/bot/error/yarn.lock
+yarn.lock

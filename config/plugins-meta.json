@@ -1,68 +1,68 @@
 [
-  { 
+	{
 		"uuid": "1fad3fdc-9ce7-424e-b8f0-50d1f7186d05",
-    "slug": "common/bot",
-    "repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
-    "version": "2.1.1"
-  },
-  {
+		"slug": "common/bot",
+		"repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
+		"version": "2.1.1"
+	},
+	{
 		"uuid": "9ff4440f-d597-44c7-92ba-9c5b45970647",
-    "slug": "common/botcmd",
-    "repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
-    "version": "2.1.1"
-  },
-  {
+		"slug": "common/botcmd",
+		"repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
+		"version": "2.1.1"
+	},
+	{
 		"uuid": "b3aa40b3-b23d-4157-84d0-d00582df5841",
-    "slug": "common/db",
-    "repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
-    "version": "2.1.1"
-  },
-  {
+		"slug": "common/db",
+		"repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
+		"version": "2.1.1"
+	},
+	{
 		"uuid": "96a3531b-655b-4b03-a466-e48bbc9faa3d",
-    "slug": "common/users",
-    "repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
-    "version": "2.1.1"
-  },
-  {
+		"slug": "common/users",
+		"repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
+		"version": "2.1.1"
+	},
+	{
 		"uuid": "2ef2769c-7e23-4e73-bcd6-9e1ac334e72e",
-    "slug": "common/mentions",
-    "repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
-    "version": "2.1.1"
-  },
-  {
+		"slug": "common/mentions",
+		"repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
+		"version": "0.2.2"
+	},
+	{
 		"uuid": "643116e7-8ac1-4c91-bafc-2a2688fde809",
-    "slug": "common/pex",
-    "repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
-    "version": "2.1.1"
-  },
-  {
+		"slug": "common/pex",
+		"repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
+		"version": "1.1.6"
+	},
+	{
 		"uuid": "780c248b-7e7d-4d77-a370-91d4e0876fbf",
-    "slug": "common/redis",
-    "repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
-    "version": "2.1.1"
-  },
-  {
+		"slug": "common/redis",
+		"repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
+		"version": "2.1.1"
+	},
+	{
 		"uuid": "7735caa1-4fa5-4ec8-9e90-ed493bcae76f",
-    "slug": "common/nicknames",
-    "repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
-    "version": "2.1.1"
-  },
-  {
+		"slug": "common/nicknames",
+		"repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
+		"version": "0.2.5"
+	},
+	{
 		"uuid": "98c9e350-8731-4b47-997d-df5a45129144",
-    "slug": "common/onlineStatus",
-    "repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
-    "version": "2.1.1"
-  },
-  {
+		"slug": "common/onlineStatus",
+		"repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
+		"version": "2.1.1"
+	},
+	{
 		"uuid": "2abc70e5-c075-4a8f-8f28-fcfe6350a79e",
-    "slug": "common/temp",
-    "repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
-    "version": "2.1.1"
-  },
-  {
+		"slug": "common/temp",
+		"repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
+		"version": "1.0.2"
+	},
+	{
 		"uuid": "5134f179-1ea2-49a4-9c60-c700d0d221c6",
-    "slug": "common/hentadmin",
-    "repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
-    "version": "2.1.1"
-  }
+		"slug": "common/hentadmin",
+		"repository": "https://raw.githubusercontent.com/u14-team/official-hpr/master/index.json",
+		"version": "2.1.1"
+	}
 ]
