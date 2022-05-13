@@ -1,7 +1,7 @@
 {
   "logNewMessages": true,
   "ignoreGroups": true,
-  "pluginUpdate": false,
+  "pluginUpdate": true,
   "handlers": [
     "check-mentions",
     "connect-user",
